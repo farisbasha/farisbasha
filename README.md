@@ -10,7 +10,7 @@
 - 👯 I’m looking forward to collaborate on open source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 Ask me about Flutter/Dart
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/](https://in.linkedin.com/in/farisbasha) - [Instagram](https://www.instagram.com/basha_fb/)
+- 📫 Connect with me on [LinkedIn](https://in.linkedin.com/in/farisbasha) - [Instagram](https://www.instagram.com/basha_fb/)
 
 Let's keep in touch.
 
