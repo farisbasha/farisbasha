@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Faris Basha T M</h1>
+</div>
 
-<!--
-**farisbasha/farisbasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm a Student At MEA ENGINEERING COLLEGE PERINTHALMANNA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Flutter Project using Django as backend
+- 👯 I’m looking forward to collaborate on open source projects.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💬 Ask me about Flutter/Dart
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-rhm/](https://in.linkedin.com/in/farisbasha) - [Instagram](https://www.instagram.com/basha_fb/)
+
+Let's keep in touch.
+
+<p align="center">
+  <img src="https://github.com/Faiz-Rhm/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
