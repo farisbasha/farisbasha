@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Faris Basha T M</h1>
+<h1 align="center">Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Myself Faris Basha T M</h1>
 </div>
 
 
-### I'm a Student At MEA ENGINEERING COLLEGE PERINTHALMANNA
+### Student At MEA ENGINEERING COLLEGE PERINTHALMANNA
 
 
 - 🔭 I’m currently working on Flutter Project using Django as backend
