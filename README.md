@@ -1,7 +1,7 @@
 
 
 
-### Student At MEA ENGINEERING COLLEGE PERINTHALMANNA
+### Student at MEA ENGINEERING COLLEGE PERINTHALMANNA
 
 
 - 🔭 I’m currently working on Flutter Project using Django as backend
