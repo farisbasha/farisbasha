@@ -10,7 +10,7 @@
 - 💬 Ask me about Flutter/Dart/Python/Django/ReactJS
 - 📫 Connect with me on [LinkedIn](https://in.linkedin.com/in/farisbasha) - [Instagram](https://www.instagram.com/basha_fb/)
 
-
+Let's keep in touch.
 
 
 # 💻 Tech Stack:
