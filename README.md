@@ -1,16 +1,17 @@
 
 
 
-### Student at MEA ENGINEERING COLLEGE PERINTHALMANNA
+## Software Engineer at HowInCloud, Perinthalmanna
 
+- 🚀 **Currently Working On:** Building impactful solutions using React, Next.js, TypeScript, Laravel, React Native, SwiftUI, and more.
+- 🤝 **Open to Collaboration:** Always excited to contribute to open-source projects and share knowledge.
+- 🌟 **Goals:** Continuously learn, innovate, and create technologies that make a difference.
+- 💬 **Expertise:** Flutter, Dart, Python, Django, ReactJS, React, Next.js, TypeScript, Laravel, React Native, and SwiftUI. Let's talk tech!
+- 📱 **Connect With Me:**  
+  [LinkedIn](https://in.linkedin.com/in/farisbasha) | [Instagram](https://www.instagram.com/basha_fb/)
 
-- 🔭 I’m currently working on Flutter Project using Django as backend
-- 👯 I’m looking forward to collaborate on open source projects.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 💬 Ask me about Flutter/Dart/Python/Django/ReactJS
-- 📫 Connect with me on [LinkedIn](https://in.linkedin.com/in/farisbasha) - [Instagram](https://www.instagram.com/basha_fb/)
+Let’s build something amazing together! 🌐
 
-Let's keep in touch.
 
 
 # 💻 Tech Stack:
