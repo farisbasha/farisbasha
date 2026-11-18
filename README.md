@@ -2,30 +2,18 @@
 
 # Faris Basha TM
 
-**Software Engineer**
+**Software Engineer · Open Source Contributor**
 
-Building production web, mobile and game software at **HowInCloud** · Perinthalmanna, Kerala, India
+Contributing to developer tools, frameworks and infrastructure used by millions of developers
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farisbasha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/farisbasha)
-[![Instagram](https://img.shields.io/badge/Instagram-basha__fb-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/basha_fb/)
+[![Merged PRs](https://img.shields.io/badge/all%20merged%20PRs-view-2ea44f?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha)
 
 </div>
 
 ---
 
-### About
-
-I design and ship end-to-end products: web platforms, cross-platform mobile apps, backend services, and a multiplayer mobile game. I care about clean architecture, fast iteration and software that holds up in production.
-
-- **Web:** React, Next.js, TypeScript, Laravel, Django
-- **Mobile:** Flutter, React Native, SwiftUI
-- **Backend & data:** PHP, Python, Java / Spring Boot (currently going deeper), PostgreSQL, MySQL, Firebase
-- **Games:** Unity & C#, building **[Stickbash](https://stickbash.com)**, a real-time multiplayer stick-fighting game
-- **Infra:** Docker, Linux servers, CI/CD, cloud VMs
-
----
-
-### Open source contributions
+### Open source
 
 <!--OSS-COUNT--><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha"><img src="https://img.shields.io/badge/merged%20pull%20requests-145%2B-2ea44f?style=for-the-badge&logo=github" alt="145+ merged pull requests"/></a><!--/OSS-COUNT-->
 
@@ -65,6 +53,34 @@ I design and ship end-to-end products: web platforms, cross-platform mobile apps
 </table>
 
 <sub><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha">View all contributions →</a> · count updates daily</sub>
+
+
+**Organizations I've contributed to**
+
+<p>
+<img src="https://github.com/microsoft.png?size=80" width="36" height="36" title="Microsoft" alt="Microsoft"/>
+<img src="https://github.com/google.png?size=80" width="36" height="36" title="Google" alt="Google"/>
+<img src="https://github.com/meta.png?size=80" width="36" height="36" title="Meta" alt="Meta"/>
+<img src="https://github.com/adobe.png?size=80" width="36" height="36" title="Adobe" alt="Adobe"/>
+<img src="https://github.com/alibaba.png?size=80" width="36" height="36" title="Alibaba" alt="Alibaba"/>
+<img src="https://github.com/huggingface.png?size=80" width="36" height="36" title="Hugging Face" alt="Hugging Face"/>
+<img src="https://github.com/apache.png?size=80" width="36" height="36" title="Apache" alt="Apache"/>
+<img src="https://github.com/cncf.png?size=80" width="36" height="36" title="CNCF" alt="CNCF"/>
+<img src="https://github.com/ossf.png?size=80" width="36" height="36" title="OpenSSF" alt="OpenSSF"/>
+<img src="https://github.com/mozilla.png?size=80" width="36" height="36" title="Mozilla" alt="Mozilla"/>
+<img src="https://github.com/cloudflare.png?size=80" width="36" height="36" title="Cloudflare" alt="Cloudflare"/>
+<img src="https://github.com/nvidia.png?size=80" width="36" height="36" title="NVIDIA" alt="NVIDIA"/>
+<img src="https://github.com/aws.png?size=80" width="36" height="36" title="AWS" alt="AWS"/>
+<img src="https://github.com/Tencent.png?size=80" width="36" height="36" title="Tencent" alt="Tencent"/>
+<img src="https://github.com/uber.png?size=80" width="36" height="36" title="Uber" alt="Uber"/>
+<img src="https://github.com/JetBrains.png?size=80" width="36" height="36" title="JetBrains" alt="JetBrains"/>
+</p>
+
+---
+
+### What I work with
+
+Full-stack engineer working across web (React, Next.js, Laravel), mobile (Flutter, React Native) and backend services, currently going deeper into Java and Spring Boot.
 
 ---
 
@@ -120,9 +136,3 @@ I design and ship end-to-end products: web platforms, cross-platform mobile apps
 <img src="https://streak-stats.demolab.com/?user=farisbasha&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
 
 ---
-
-<div align="center">
-
-Always happy to talk products, mobile and web. Say hi on [LinkedIn](https://in.linkedin.com/in/farisbasha).
-
-</div>
