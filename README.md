@@ -27,7 +27,7 @@ I design and ship end-to-end products: web platforms, cross-platform mobile apps
 
 ### Open source contributions
 
-<!--OSS-COUNT--><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha"><img src="https://img.shields.io/badge/merged%20pull%20requests-160%2B-2ea44f?style=for-the-badge&logo=github" alt="160+ merged pull requests"/></a><!--/OSS-COUNT-->
+<!--OSS-COUNT--><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha"><img src="https://img.shields.io/badge/merged%20pull%20requests-145%2B-2ea44f?style=for-the-badge&logo=github" alt="145+ merged pull requests"/></a><!--/OSS-COUNT-->
 
 <table>
 <tr>
