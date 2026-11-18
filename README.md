@@ -2,13 +2,12 @@
 
 # Faris Basha TM
 
-**Software Engineer · Full-stack & Mobile · Open-source contributor**
+**Software Engineer · Full-stack & Mobile**
 
 Building production web, mobile and game software at **HowInCloud** · Perinthalmanna, Kerala, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farisbasha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/farisbasha)
 [![Instagram](https://img.shields.io/badge/Instagram-basha__fb-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/basha_fb/)
-[![Merged PRs](https://img.shields.io/badge/Merged%20open--source%20PRs-125%2B%20projects-2ea44f?style=flat-square&logo=github)](https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha)
 
 </div>
 
@@ -28,18 +27,13 @@ I design and ship end-to-end products: web platforms, cross-platform mobile apps
 
 ### Open source
 
-I contribute documentation and code fixes to widely used open-source projects: fixing broken docs, wrong API references and small bugs that trip up other developers.
-**Merged contributions in 125+ projects**, including:
+I like fixing the small stuff I run into in tools I use: broken docs, dead links, outdated examples. Some projects that merged a fix of mine:
 
-| Area | Projects |
-|---|---|
-| **Big tech** | [Microsoft Playwright](https://github.com/microsoft/playwright/pull/44166) · [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/pull/1458) · [Google Puppeteer](https://github.com/puppeteer/puppeteer/pull/15818) · [Google Guava](https://github.com/google/guava/pull/8876) · [Google Lighthouse](https://github.com/GoogleChrome/lighthouse/pull/17552) · [Meta Lexical](https://github.com/meta/lexical/pull/9937) · [Adobe React Spectrum](https://github.com/adobe/react-spectrum/pull/10982) · [Alibaba Ant Design](https://github.com/ant-design/ant-design/pull/59899) · [Alibaba Arthas](https://github.com/alibaba/arthas/pull/3295) · [Hugging Face transformers.js](https://github.com/huggingface/transformers.js/pull/1951) · [Microsoft React Native Windows](https://github.com/microsoft/react-native-windows/pull/16635) |
-| **Frameworks & tools** | [Tauri](https://github.com/tauri-apps/tauri/pull/16559) · [RustDesk](https://github.com/rustdesk/rustdesk/pull/17094) · [NestJS](https://github.com/nestjs/nest/pull/18528) · [Astro](https://github.com/withastro/astro/pull/18756) · [Socket.IO](https://github.com/socketio/socket.io/pull/5636) · [Redux](https://github.com/reduxjs/redux/pull/4968) · [Remix](https://github.com/remix-run/remix/pull/12318) · [Nx](https://github.com/nrwl/nx/pull/37903) · [SolidJS](https://github.com/solidjs/solid/pull/4951) · [MobX](https://github.com/mobxjs/mobx/pull/4782) · [Chakra UI](https://github.com/chakra-ui/chakra-ui/pull/11080) · [Quasar](https://github.com/quasarframework/quasar/pull/18600) · [Mongoose](https://github.com/Automattic/mongoose/pull/16720) · [DBeaver](https://github.com/dbeaver/dbeaver/pull/42929) |
-| **Languages & runtimes** | [Julia](https://github.com/JuliaLang/julia/pull/65044) · [NumPy](https://github.com/numpy/numpy/pull/33360) · [Tokio](https://github.com/tokio-rs/tokio/pull/8802) · [Emscripten](https://github.com/emscripten-core/emscripten/pull/28299) · [Actix Web](https://github.com/actix/actix-web/pull/4427) · [Leptos](https://github.com/leptos-rs/leptos/pull/5011) · [Tornado](https://github.com/tornadoweb/tornado/pull/3895) · [curl](https://github.com/curl/curl/pull/24025) · [Redis go-redis](https://github.com/redis/go-redis/pull/4328) |
-| **Foundations (Apache, CNCF, OpenSSF)** | [Apache Airflow](https://github.com/apache/airflow/pull/77193) · [Apache Flink CDC](https://github.com/apache/flink-cdc/pull/4627) · [Istio](https://github.com/istio/istio/pull/62851) · [Envoy](https://github.com/envoyproxy/envoy/pull/49344) · [Harbor](https://github.com/goharbor/harbor/pull/24433) · [Helm](https://github.com/helm/helm-www/pull/2368) · [OpenSSF OSV](https://github.com/ossf/osv-schema/pull/667) |
-| **PHP ecosystem** | [Symfony](https://github.com/symfony/symfony/pull/68220) · [PHPMailer](https://github.com/PHPMailer/PHPMailer/pull/3377) · [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet/pull/5126) · [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/9938) · [Monolog](https://github.com/Seldaek/monolog/pull/2103) · [Spatie Laravel Permission](https://github.com/spatie/laravel-permission/pull/2987) · [Craft CMS](https://github.com/craftcms/cms/pull/20821) |
+<p>
+<a href="https://github.com/microsoft/playwright/pull/44166" title="Playwright"><img src="https://github.com/microsoft.png?size=80" width="40" height="40" alt="Playwright"/></a> <a href="https://github.com/google/guava/pull/8876" title="Guava"><img src="https://github.com/google.png?size=80" width="40" height="40" alt="Guava"/></a> <a href="https://github.com/puppeteer/puppeteer/pull/15818" title="Puppeteer"><img src="https://github.com/puppeteer.png?size=80" width="40" height="40" alt="Puppeteer"/></a> <a href="https://github.com/tauri-apps/tauri/pull/16559" title="Tauri"><img src="https://github.com/tauri-apps.png?size=80" width="40" height="40" alt="Tauri"/></a> <a href="https://github.com/rustdesk/rustdesk/pull/17094" title="RustDesk"><img src="https://github.com/rustdesk.png?size=80" width="40" height="40" alt="RustDesk"/></a> <a href="https://github.com/nestjs/nest/pull/18528" title="NestJS"><img src="https://github.com/nestjs.png?size=80" width="40" height="40" alt="NestJS"/></a> <a href="https://github.com/withastro/astro/pull/18756" title="Astro"><img src="https://github.com/withastro.png?size=80" width="40" height="40" alt="Astro"/></a> <a href="https://github.com/socketio/socket.io/pull/5636" title="Socket.IO"><img src="https://github.com/socketio.png?size=80" width="40" height="40" alt="Socket.IO"/></a> <a href="https://github.com/reduxjs/redux/pull/4968" title="Redux"><img src="https://github.com/reduxjs.png?size=80" width="40" height="40" alt="Redux"/></a> <a href="https://github.com/JuliaLang/julia/pull/65044" title="Julia"><img src="https://github.com/JuliaLang.png?size=80" width="40" height="40" alt="Julia"/></a> <a href="https://github.com/numpy/numpy/pull/33360" title="NumPy"><img src="https://github.com/numpy.png?size=80" width="40" height="40" alt="NumPy"/></a> <a href="https://github.com/apache/airflow/pull/77193" title="Apache Airflow"><img src="https://github.com/apache.png?size=80" width="40" height="40" alt="Apache Airflow"/></a> <a href="https://github.com/istio/istio/pull/62851" title="Istio"><img src="https://github.com/istio.png?size=80" width="40" height="40" alt="Istio"/></a> <a href="https://github.com/tokio-rs/tokio/pull/8802" title="Tokio"><img src="https://github.com/tokio-rs.png?size=80" width="40" height="40" alt="Tokio"/></a> <a href="https://github.com/symfony/symfony/pull/68220" title="Symfony"><img src="https://github.com/symfony.png?size=80" width="40" height="40" alt="Symfony"/></a> <a href="https://github.com/meta/lexical/pull/9937" title="Lexical"><img src="https://github.com/meta.png?size=80" width="40" height="40" alt="Lexical"/></a> <a href="https://github.com/adobe/react-spectrum/pull/10982" title="React Spectrum"><img src="https://github.com/adobe.png?size=80" width="40" height="40" alt="React Spectrum"/></a> <a href="https://github.com/ant-design/ant-design/pull/59899" title="Ant Design"><img src="https://github.com/ant-design.png?size=80" width="40" height="40" alt="Ant Design"/></a> <a href="https://github.com/huggingface/transformers.js/pull/1951" title="transformers.js"><img src="https://github.com/huggingface.png?size=80" width="40" height="40" alt="transformers.js"/></a> <a href="https://github.com/curl/curl/pull/24025" title="curl"><img src="https://github.com/curl.png?size=80" width="40" height="40" alt="curl"/></a> <a href="https://github.com/dbeaver/dbeaver/pull/42929" title="DBeaver"><img src="https://github.com/dbeaver.png?size=80" width="40" height="40" alt="DBeaver"/></a> <a href="https://github.com/envoyproxy/envoy/pull/49344" title="Envoy"><img src="https://github.com/envoyproxy.png?size=80" width="40" height="40" alt="Envoy"/></a> <a href="https://github.com/mobxjs/mobx/pull/4782" title="MobX"><img src="https://github.com/mobxjs.png?size=80" width="40" height="40" alt="MobX"/></a> <a href="https://github.com/chakra-ui/chakra-ui/pull/11080" title="Chakra UI"><img src="https://github.com/chakra-ui.png?size=80" width="40" height="40" alt="Chakra UI"/></a>
+</p>
 
-[See all merged pull requests →](https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha)
+<sub><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha">all merged PRs →</a></sub>
 
 ---
 
@@ -98,6 +92,6 @@ I contribute documentation and code fixes to widely used open-source projects: f
 
 <div align="center">
 
-Open to collaboration on open-source, developer tooling and product engineering. Feel free to reach out on [LinkedIn](https://in.linkedin.com/in/farisbasha).
+Always happy to talk products, mobile and web. Say hi on [LinkedIn](https://in.linkedin.com/in/farisbasha).
 
 </div>
