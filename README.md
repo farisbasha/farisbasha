@@ -15,7 +15,7 @@ Contributing to developer tools, frameworks and infrastructure used by millions 
 
 ### Open source
 
-<!--OSS-COUNT--><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha"><img src="https://img.shields.io/badge/merged%20pull%20requests-360%2B-2ea44f?style=for-the-badge&logo=github" alt="360+ merged pull requests"/></a><!--/OSS-COUNT-->
+<!--OSS-COUNT--><a href="https://github.com/pulls?q=is%3Apr+author%3Afarisbasha+is%3Amerged+-user%3Afarisbasha"><img src="https://img.shields.io/badge/merged%20pull%20requests-375%2B-2ea44f?style=for-the-badge&logo=github" alt="375+ merged pull requests"/></a><!--/OSS-COUNT-->
 
 <table>
 <tr>
